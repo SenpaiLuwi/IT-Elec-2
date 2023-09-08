@@ -2,6 +2,8 @@
 
 JOHN LOUIE UBIAS 3BSIT-2
 
+Advantages of Github
+
 Version Control: GitHub is primarily a version control system. It allows you to keep track of changes you make to your code over time. This is especially valuable for students working on programming assignments or group projects, as you can easily revert to previous versions if something goes wrong.
 
 Public and Private Repositories: GitHub offers both public and private repositories. Public repositories are great for sharing your work with the world, while private repositories are essential for keeping sensitive or unfinished projects secure.
